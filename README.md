@@ -24,4 +24,4 @@ This project has all you need to get started with our Pet Shop tutorial.
     ```javascript
     // Serves the front-end on http://localhost:3000
     npm run dev
-    ```
+    ```# pet-shop
